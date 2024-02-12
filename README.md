@@ -1,6 +1,6 @@
 - 👋 Hi, I’m anthony
 - 👀 I’m interested in codering.
 - 🌱 I’m currently learning html css javascript and map making.
-- 💞️ I’m looking to collaborate on ballin.
+- 💞️ I mostly work alone or on friends things
 - 📫 How to reach me: dont
 - ⚡ Fun fact: A crocodile cannot stick its tongue out.
